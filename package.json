@@ -3,7 +3,7 @@
   "version": "0.0.16",
   "description": "Path tracing renderer and utilities for three.js built on top of three-mesh-bvh.",
   "module": "src/index.js",
-  "main": "build/index.umd.cjs",
+  "main": "build/index.module.js",
   "type": "module",
   "sideEffects": false,
   "files": [
